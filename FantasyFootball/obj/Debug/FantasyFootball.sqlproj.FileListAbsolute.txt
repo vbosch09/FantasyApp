@@ -1,0 +1,10 @@
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\FantasyFootball\bin\Debug\FantasyFootball.dacpac
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\FantasyFootball\bin\Debug\FantasyFootball.dll
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\FantasyFootball\bin\Debug\FantasyFootball.pdb
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\FantasyFootball\obj\Debug\FantasyFootball.sqlprojAssemblyReference.cache
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\FantasyFootball\obj\Debug\Model.xml
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\FantasyFootball\obj\Debug\refactor.xml
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\FantasyFootball\obj\Debug\postdeploy.sql
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\FantasyFootball\obj\Debug\predeploy.sql
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\FantasyFootball\obj\Debug\FantasyFootball.dll
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\FantasyFootball\obj\Debug\FantasyFootball.pdb

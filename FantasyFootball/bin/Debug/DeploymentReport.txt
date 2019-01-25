@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[ConfigTable] (Table)
+       [dbo].[DraftPicks] (Table)
+       [dbo].[FantasyTeams] (Table)
+       [dbo].[Owners] (Table)
+       [dbo].[Players] (Table)
+       [dbo].[Seasons] (Table)
+       Default Constraint: unnamed constraint on [dbo].[DraftPicks] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Seasons] (Default Constraint)
+       [dbo].[FK_DraftPicks_ToPlayers] (Foreign Key)
+       [dbo].[FK_DraftPicks_ToDrafts] (Foreign Key)
+       [dbo].[FK_FantasyTeams_Owners] (Foreign Key)
+       [dbo].[FK_FantasyTeams_Seasons] (Foreign Key)
+       [dbo].[Fantasy_InsertPlayer] (Procedure)
+       [dbo].[Fantasy_SelectAllPlayerData] (Procedure)
+       [dbo].[Fantasy_SelectPlayerBySleeperId] (Procedure)
+
+** Supporting actions
