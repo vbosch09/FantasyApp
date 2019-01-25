@@ -23,8 +23,8 @@ namespace Fantasy.Common.Lib
             sqlConnectionSB.DataSource = "tcp:fantasy01.database.windows.net,1433"; //["Server"]  
             sqlConnectionSB.InitialCatalog = "FantasyFootball"; //["Database"]  
 
-            sqlConnectionSB.UserID = "vbosch23";  // "@yourservername"  as suffix sometimes.  
-            sqlConnectionSB.Password = "Bu11d0gs2018";
+            sqlConnectionSB.UserID = "******";  // "@yourservername"  as suffix sometimes.  
+            sqlConnectionSB.Password = "*******";
             sqlConnectionSB.IntegratedSecurity = false;
 
             // Adjust these values if you like. (ADO.NET 4.5.1 or later.)  
