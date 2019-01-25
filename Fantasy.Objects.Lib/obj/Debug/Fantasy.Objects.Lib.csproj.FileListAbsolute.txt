@@ -1,0 +1,17 @@
+C:\Users\vbosc\source\repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\bin\Debug\Fantasy.Objects.Lib.dll
+C:\Users\vbosc\source\repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\bin\Debug\Fantasy.Objects.Lib.pdb
+C:\Users\vbosc\source\repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\obj\Debug\Fantasy.Objects.Lib.csprojAssemblyReference.cache
+C:\Users\vbosc\source\repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\obj\Debug\Fantasy.Objects.Lib.csproj.CoreCompileInputs.cache
+C:\Users\vbosc\source\repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\obj\Debug\Fantasy.Objects.Lib.dll
+C:\Users\vbosc\source\repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\obj\Debug\Fantasy.Objects.Lib.pdb
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\obj\Debug\Fantasy.Objects.Lib.csproj.CopyComplete
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\bin\Debug\Microsoft.CSharp.dll
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\bin\Debug\System.Data.dll
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\bin\Debug\System.dll
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\bin\Debug\System.Net.Http.dll
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\bin\Debug\System.Xml.dll
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\bin\Debug\System.Xml.Linq.dll
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\vbosc\Source\Repos\Fantasy.Common.Lib\Fantasy.Objects.Lib\bin\Debug\Newtonsoft.Json.xml
